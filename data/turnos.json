@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1763988686934,
+    "tipo": "presencial",
+    "paciente": "Mariano",
+    "fecha": "2025-11-22",
+    "hora": "09:51"
+  },
+  {
+    "id": 1763988967398,
+    "tipo": "presencial",
+    "paciente": "Jenni",
+    "fecha": "2025-11-22",
+    "hora": "09:55"
+  },
+  {
+    "id": 1763988997686,
+    "tipo": "presencial",
+    "paciente": "Marianito Actualizado",
+    "fecha": "2025-11-22",
+    "hora": "12:45"
+  }
+]
