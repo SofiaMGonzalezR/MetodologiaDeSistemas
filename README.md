@@ -158,3 +158,6 @@ http://localhost:3000
 
 El proyecto integra correctamente los patrones Factory, Observer y Facade dentro de una arquitectura en capas, logrando un CRUD funcional con persistencia local y notificaciones internas. A esto se suma un frontend sencillo y eficiente que permite gestionar turnos de forma completa desde el navegador.
 En conjunto, la solución final es clara, mantenible y demostrable, cumpliendo lo planeado y dejando una base sólida a la par que versatil para futuras mejoras o implementaciones.
+=======
+# MetodologiaDeSistemas
+>>>>>>> d83c8bc9d4ddb465670c7e734d1b5ce6f851546b
